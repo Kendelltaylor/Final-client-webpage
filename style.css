@@ -178,7 +178,8 @@ p {
 	}
 }
 
-/* iPhone 6, 7, 8, and plus */
+/* iPhone 6, 7, 8, and plus */ 
+/*In this breakpoint the picture and the text basically resize to fit the screen of a iphone 6 , 7 , 8, and plus. */
 @media only screen and (max-width: 414px) {
 	.columns {
 		display: block;
